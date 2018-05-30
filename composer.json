@@ -1,0 +1,12 @@
+{
+    "name": "traxo/appoptics-apm-php",
+    "description": "AppOptics SDK API stub for PHP",
+    "authors": [{
+        "name": "Traxo"
+    }],
+    "license": "MIT",
+    "keywords": ["appoptics", "apm"],
+    "autoload": {
+        "files": ["lib/api.php"]
+    }
+}
